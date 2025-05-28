@@ -284,19 +284,19 @@ export default function Home() {
           {/* Gradient Title */}
           <h1 className="mb-6 text-3xl font-extrabold md:text-5xl lg:text-6xl">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 to-indigo-600">
-              Hi, I'm Daniel! Nice to meet you
+              Hi, I&lsquo;m Daniel! Nice to meet you
             </span>
           </h1>
 
           {/* Description */}
           <p className="mt-6 max-w-xl text-lg text-white/90 leading-relaxed">
-            I'm a recent graduate of Cal Poly Pomona, where I graduated with my
-            B.S in Computer Science. I'm interested in building analytical
+            I&lsquo;m a recent graduate of Cal Poly Pomona, where I graduated with my
+            B.S in Computer Science. I&lsquo;m interested in building analytical
             software tools to help people improve their lives based on well
             informed decisions!
           </p>
 
-          <div className="mt-10 text-xs"><p> p.s: i took this background photo myself at Grant Lake in Mammoth Ca, Jan 16, 2025 @ 12:25 A.M.!</p></div>
+          <div className="mt-10 text-xs"><p> p.s: I took this background photo myself at Grant Lake in Mammoth Ca, Jan 16, 2025 @ 12:25 A.M.!</p></div>
 
           {/* Scroll indicator */}
           <div className="absolute bottom-8 animate-bounce">
